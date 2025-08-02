@@ -47,12 +47,12 @@ A responsive web application that allows patients to browse doctors, view availa
 - 🧾 PDF confirmation or reminders via notifications
 - 
 ### Home Page
-![Home](./screenshots/Capture.jpg)
-![Doctor List](./screenshots/Capture1.jpg)
+![Home](./screenshots/Capture.JPG)
+![Doctor List](./screenshots/Capture1.JPG)
 ![](./screenshots/Capture2.JPG)
-![](./screenshots/Capture3.jpg)
-![](./screenshots/Capture4.jpg)
-![](./screenshots/Capture5.jpg)
-![](./screenshots/Capture6.jpg)
-![](./screenshots/Capture7.jpg)
-![](./screenshots/Capture8.jpg)
+![](./screenshots/Capture3.JPG)
+![](./screenshots/Capture4.JPG)
+![](./screenshots/Capture5.JPG)
+![](./screenshots/Capture6.JPG)
+![](./screenshots/Capture7.JPG)
+![](./screenshots/Capture8.JPG)
