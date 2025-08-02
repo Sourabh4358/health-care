@@ -45,8 +45,9 @@ A responsive web application that allows patients to browse doctors, view availa
 - 📊 Dashboard for doctors to manage bookings
 - 📅 Integration with calendar APIs
 - 🧾 PDF confirmation or reminders via notifications
-
-![](./screenshots/capture.jpg)
+- 
+### Home Page
+![Home Page](./screenshots/capture.jpg)
 ![](./screenshots/capture1.jpg)
 ![](./screenshots/capture2.jpg)
 ![](./screenshots/capture3.jpg)
