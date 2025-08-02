@@ -49,7 +49,7 @@ A responsive web application that allows patients to browse doctors, view availa
 ### Home Page
 ![Home](./screenshots/Capture.jpg)
 ![Doctor List](./screenshots/Capture1.jpg)
-![](./screenshots/Capture2.jpg)
+![](./screenshots/Capture2.JPG)
 ![](./screenshots/Capture3.jpg)
 ![](./screenshots/Capture4.jpg)
 ![](./screenshots/Capture5.jpg)
