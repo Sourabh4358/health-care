@@ -47,8 +47,9 @@ A responsive web application that allows patients to browse doctors, view availa
 - 🧾 PDF confirmation or reminders via notifications
 - 
 ### Home Page
-![Home Page](./screenshots/capture.jpg)
-![](./screenshots/capture1.jpg)
+![Home](https://raw.githubusercontent.com/Sourabh4358/health-care/main/screenshots/capture.jpg)
+![Doctor List](https://raw.githubusercontent.com/Sourabh4358/health-care/main/screenshots/capture1.jpg)
+
 ![](./screenshots/capture2.jpg)
 ![](./screenshots/capture3.jpg)
 ![](./screenshots/capture4.jpg)
